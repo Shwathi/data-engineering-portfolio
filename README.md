@@ -26,7 +26,7 @@ Aspiring Data Engineer with hands-on experience in building data pipelines and p
 ---
 
 ### 2. COVID-19 Data Engineering Pipeline using Hadoop Ecosystem  
-🔗 (to be added)  
+🔗 https://github.com/Shwathi/covid-data-engineering-pipeline.git
 - Designed end-to-end pipeline: MySQL → Sqoop → HDFS → Hive → Spark  
 - Implemented partitioning and bucketing in Hive  
 - Performed distributed data analysis using Spark
